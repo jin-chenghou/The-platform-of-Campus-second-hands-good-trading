@@ -1,0 +1,6 @@
+bg filter=lfs diff=lfs merge=lfs -text
+image filter=lfs diff=lfs merge=lfs -text
+pic filter=lfs diff=lfs merge=lfs -text
+second-hand[[:space:]]goods-trading[[:space:]]-back filter=lfs diff=lfs merge=lfs -text
+second-hand[[:space:]]goods-trading[[:space:]]-front filter=lfs diff=lfs merge=lfs -text
+second_hand_trading.sql filter=lfs diff=lfs merge=lfs -text
